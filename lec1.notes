@@ -61,7 +61,8 @@ research designs
         (when can child recognize reflection only look at 1-2 yr old)
 
 ethical std.
-    even UCSD has its own IRB
+    even UCSD has its own IRB(institutional review board)
+        - committee to monitor, & review biomedical and behavioral research involving humans.
     free from harm
     patients consent
 
@@ -73,23 +74,87 @@ heredity
     bio characteristics passed thru generations
 
 genes
-    basic units of heredity
-    23 pairs of chromosomes
+    = a segment of a chromosome
+    - basic units of heredity
+
+DNA
+    - 2 long, connected strands
+    - spiral around each other
+
+chromosome
+    = a molecule of DNA
+    - a human has 23 pairs of chromosomes
+        - ovum contains 23 + sperm contains 23
+        => zygote contains 23 pairs
 // gender - id. sex - bio
 
 genotype vs. phenotype
-    phenotype can be physical as well as emotional
-    link to evolution
+    - genotype  = what you get
+    - phenotype = what you show
+    - phenotype can be physical as well as emotional
+    - linked to evolution
+    - phenotype = genotype + environment
 
 genetic inheritance
-    allele (dominant or recessive)
-    homozygous or heterozygous for a trait
-    homozygous: both dominant or both recessive
-    heterozygous: mixed, mainly focused on
+    - humans reproduce thru sexual reproduction
+    - conception
+        = fusing of ovum & sperm
+        (ovum + sperm => zygote)
+    - allele
+        = the specific form of a gene
+        (dominant or recessive)
+    - homozygous or heterozygous for a trait
+        - homozygous
+            = a person who inherits the same allele from both parents
+            (i.e., both dominant or both recessive)
+        - heterozygous
+            = a person who inherits different alleles
+            - mainly focused on
+            - 3 outcomes for a trait
+                1) a dominant & a recessive
+                    - char = dominant
+                2) chars intermediate b/w associated w/ each allele
+                    - e.g. skin color
+                3) codominant alleles
+                    - e.g. blood type
 
 >>> mitosis & meiosis
 
+2 types of cells
+    - germc cell
+        - each w/ 23 chromosomes
+        - consist of sperm of ova (ovum plural)
+        - formed thru meiosis
+    - somatic cells
+        - each w/ 23 pairs of chromosomes
+        - all cells of body, except sperm and ova
+        - formed thru mitosis
+
+mitosis vs. meiosis 
+    - mito, thread; meio, make less(minor)
+
+>>> sex determination
+
+sex
+    - determined by 23rd pair of chromosome
+    - XX = female, XY = male
+
 >>> genetic disorders:
+
+mutations
+    = an err in process of gene replication
+        - results in change in molecular strut of DNA
+    - can be passed on to next generation if occur in germ cells
+    - can add new genes to gene pool
+    - important src of variation of genotype
+    - most are harmful or even lethal, not adaptive
+
+causes of genetic abnormailities
+    - recessive disorders
+        = genes inherited thru normal process of inheritance
+    - chromosomal disorders
+        = from a breakdown in process of genetic transmission
+          (affecting chromosomes in germ cell)
 
 recessive disorders
     1) PKU
@@ -99,7 +164,7 @@ recessive disorders
         (many African have malaria, but sickle-cell anemia protects against malaria)
 
 chromosomal disorders
-1) down syndrome (extra chromosome 21 - growth delays, mild to moderate IQ disability)
+    1) down syndrome (extra chromosome 21 - growth delays, mild to moderate IQ disability)
     2) klinefelter syndrome (XXY - looks like boy, but w/ some female features)
     3) turner syndrome (X0 - short & webbed neck, no sec sexual chars)
 
