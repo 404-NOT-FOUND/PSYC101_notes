@@ -1,109 +1,184 @@
 #
 
-...
+UNIT II
+--------------------------------------------------
+
+language acquisition
+--------------------------------------------------
+
+>>> key definitions
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+phoneme     the smallest sound categories that distinguish meanings (words)
+                - e.g. p, b, d, and t in the English words pad, pat, bad, and bat.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+morpheme    the smallest units of meaning
+                - e.g. words (you, cat) and affixes (un-, -ous) in English
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+semantics   the meaning of whole words
+                - like words, phrases, signs, and symbols
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+syntax      the organization of words within a sentence
+                - like grammar
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+pragmatics  the appropriate use of language in context
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+>>> milestones
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+birth           phoneme perception for all languages
+                preference for language sounds
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+6-10 months     babbling
+                phoneme perception now favors native language
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+9 months        protowords
+                    - words that are similar to --- but not quite --- actual words
+                melodic utterances
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+12 months       one word utterances
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+18 months       two word utterances
+                    - combination of words
+                vocabulary spurt begins (fast mapping)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+>>> babbling
+
+may be practice for forming words
+
+re-duplicative babbling first
+    - bababa
+
+variegated babbling next
+    - baduga
+
+manual babbling in deaf children
+    - babbling w/ hand movements
+    - repetitive movements that are confined to a limited area in front of the
+      body similar to the sign-phonetic space used in sign languages
+    - importance:
+        many articulation tendencies of manual babbling transfer to the
+        children's early sign production and then later into the production of
+        words
 
 >>> parsing the stream
 
 speech is continuous ... but we hear discrete words
-how do babies learn how words begin and end????
+how do babies learn how words begin and end?
 
 think of sausages
+    - stream
 
 statistical learning?
-    ``hello pretty baby''
-    ``pretty bird''
-    
+    - pattern perception rather than an innate biological grammar
+    - ``hello pretty baby'' and ``pretty bird'' -> I kno what ``pretty'' means!
+
 ``motherese'' speech
-    exaggerated pitch contour
-    slower pace
-    exaggerated facial features -> enhance attention
-    repetition
+    - exaggerated pitch contour
+    - slower pace
+    - exaggerated facial features -> enhance attention
+    - repetition
 
 >>> the reference problem
 
 how does a child know to what a word refers?
 
 whole object principle
-    - if i point, i refer to the whole thing
+    - if I point, I refer to the whole thing
 
 mutual-exclusivity principle
-    - if i know what an ear is, i know youre talking about head when pointing to ear and say head
+    - if I know what an ear is, I know you're talking about head when pointing
+      to ear and say head
 
-categorizing principle -> overextensions
-    -
+categorizing principle 
+    -> over-extension (see below)
 
 joint attention
     - point = engage child to learn
     - attention on same thing
 
->>> early vocabulary 
+>>> early vocabulary
 
 productive vs. receptive vocabulary
+#    - you are in receptive control of the words that
+        - you understand when you hear them or read them
+#    - you are in productive control of the words that
+        - you use to express yourself, in speech or in writing
 
 words learned first
-    - nouns before verbs (in english)
+    - nouns before verbs (in English)
     - words linked to daily activities
-    - labels of objects that capture a child’s attention
+    - labels of objects that capture a child's attention
 
-age             spoken vocabulary   works understood
-13-14 months    10 words
-17-18 months*   50 words
-2 years         300 words
-3 years         1000 words
-6 years         2600 words          18000 words
+>>> vocabulary burst
+
+# age             spoken vocabulary   works understood
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 13-14 months    10 words
+# 17-18 months    50 words
+# 2 years         300 words
+# 3 years         1000 words
+# 6 years         2600 words          18000 words
+
+vocabulary expands really fast (see below)
 
 >>> fast mapping
 
 rapid word acquisition
 
-after 18 months, learn an 
-average of 9 words per day
+after 18 months, learn an average of |9 words per day|
 
 >>> applying verbal labels
 
-overextension
+over-extension
     - applying verbal labels too broadly
     - ``dog'' for any four-legged animal
     - ``daddy'' for any adult man
 
-underextension
+under-extension
     - applying a label like a proper name
     - ``bottle'' only to refer to his or her own bottle
 
 >>> wug test
 
-kids know how to apply rules in language
+kids know how to |apply rules| in language
     - even to nonsense words
-    - a wug -> two wugs. i bot, i botted
+    - a wug -> two wugs. I bot, I botted
 
 other changes
     - syntactic complexity
     - pragmatics
     - vocabulary
     - disambiguation between subtle intonational differences
-        - thats a hot dog vs i want a hotdog
+        - ``thats a hot dog'' vs ``I want a hot dog''
 
 >>> nativism
 
-poverty of stimulus
+nativism is the view that
+    - certain skills or abilities are ``native'' or hard-wired into the brain at birth.
+
+nativists argue:
+
+since the ``poverty of stimulus''
     - language is too complex to be completely learned from input
 
-language acquisition device (lad)
-    - theory: innate ability(brain struct) to language
+there must be ``language acquisition device (LAD)''
+    - theory: innate ability (brain struct) to language
     - recognizes basic rules in deep structure of the language
 
 >>> evidence?
 
-is there a sensitive period for language 
-development?
-    - can’t use animal models
-    - can’t design that experiment (forbidden)
+is there a sensitive period for language development?
+    - can't design that experiment (forbidden)
+    - can't use animal models
 
 what we can study:
     - children raised in abuse and isolation
     - deaf children in loving environments without sign language
 
->>> child isolation study: genie
+>>> child isolation study: Genie
 
 found at age 13 strapped to a toilet
 
